@@ -4,6 +4,8 @@
 ```
 npm install
 ```
+## 运行截图
+[![沙漠中的岩石图片](/图片1.png "Shiprock")]
 
 ### Compiles and hot-reloads for development
 ```
