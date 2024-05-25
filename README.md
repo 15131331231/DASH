@@ -5,8 +5,8 @@
 npm install
 ```
 ## 运行截图
-[![沙漠中的岩石图片](/图片1.png "Shiprock")]
-
+![运行截图1](/图片1.png "Shiprock")
+![运行截图2](/图片2.png "Shiprock")
 ### Compiles and hot-reloads for development
 ```
 npm run serve
