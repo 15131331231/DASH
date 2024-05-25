@@ -7,11 +7,10 @@ npm install
 ## 运行截图
 ![运行截图1](/图片1.png "Shiprock")
 ![运行截图2](/图片2.png "Shiprock")
-### Compiles and hot-reloads for development
+### 编译运行
 ```
 npm run serve
 ```
-
 ### 编译
 ```
 npm run build
